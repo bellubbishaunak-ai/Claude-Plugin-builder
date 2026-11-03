@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.typesafe.ai)",
+      "Bash(python jev_business_decision.py --mock)",
+      "Bash(claude plugin *)",
+      "Read(//c/Users/DELL/.claude/plugins/**)",
+      "Bash(python -c \"print\\('ok'\\)\")",
+      "Bash(py -c \"print\\('ok'\\)\")",
+      "Bash(g++ --version)",
+      "Bash(cl)",
+      "WebSearch",
+      "WebFetch(domain:www.claymath.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Bash(python *)"
+    ]
+  }
+}
