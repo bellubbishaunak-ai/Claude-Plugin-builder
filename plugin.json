@@ -1,0 +1,9 @@
+{
+    "name": "Claude-dev",
+    "description": "Commands, agents, and skills for generating concise, correct code, reviewing it for bugs and security flaws, and solving scientific and mathematical problems with rigor.",
+    "version": "1.1.0",
+    "author": {
+        "name": "Shaunak Bellubbi",
+        "email": "b.shaunak13@gmail.com"
+    }
+}
